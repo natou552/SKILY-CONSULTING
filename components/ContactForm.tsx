@@ -11,7 +11,6 @@ const needTypes = [
   "Déclaration de revenus",
   "Optimisation fiscale",
   "Accompagnement restaurateur",
-  "Création d'entreprise",
   "Social et paie",
   "Autre demande",
 ];

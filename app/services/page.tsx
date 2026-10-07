@@ -6,7 +6,7 @@ import { services } from "@/lib/services";
 export const metadata: Metadata = {
   title: "Nos services d'expertise comptable",
   description:
-    "Tenue comptable, déclarations de revenus, optimisation fiscale, accompagnement des restaurateurs, création d'entreprise et social/paie. Tarifs sur devis.",
+    "Tenue comptable, déclarations de revenus, optimisation fiscale, accompagnement des restaurateurs, conciergerie et billetterie, social et paie. Tarifs sur devis.",
   alternates: { canonical: "/services" },
 };
 

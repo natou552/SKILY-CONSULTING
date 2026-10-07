@@ -78,20 +78,6 @@ export const services: Service[] = [
     ],
   },
   {
-    slug: "creation-entreprise",
-    title: "Création d'entreprise",
-    shortDescription:
-      "Du choix du statut juridique aux premières démarches, un accompagnement complet pour démarrer sur de bonnes bases.",
-    description:
-      "[À COMPLÉTER] — Détail du service de création d'entreprise à préciser : accompagnement au choix de la forme juridique, rédaction des statuts, formalités d'immatriculation, prévisionnel financier, etc.",
-    bullets: [
-      "Choix de la forme juridique adaptée",
-      "Formalités de création et d'immatriculation",
-      "Prévisionnel financier et business plan",
-      "[À COMPLÉTER]",
-    ],
-  },
-  {
     slug: "social-paie",
     title: "Social et paie",
     shortDescription:

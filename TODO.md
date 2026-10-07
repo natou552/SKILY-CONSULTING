@@ -21,7 +21,6 @@ Ce fichier liste tous les éléments marqués `[À COMPLÉTER]` ou `[À AJUSTER]
 
 - [ ] Page À propos : parcours et présentation détaillée d'Illan Yaiche (formation, expérience, spécialisations)
 - [ ] Page À propos : préciser la cible exacte du cabinet (phrase marquée `[À AJUSTER]`)
-- [ ] Service "Création d'entreprise" (`lib/services.ts`) : description détaillée à écrire
 - [ ] Service "Social et paie" (`lib/services.ts`) : description détaillée à écrire
 - [ ] Vérifier/compléter la liste des services si d'autres prestations existent (juridique, etc.)
 - [ ] Témoignages de la page d'accueil (`components/Testimonials.tsx`) : actuellement des exemples factices, à remplacer par de vrais retours clients (avec leur accord)
