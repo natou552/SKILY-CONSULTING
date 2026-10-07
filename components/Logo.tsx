@@ -9,7 +9,7 @@ export default function Logo({
   iconOnly?: boolean;
 }) {
   const textColor = variant === "light" ? "text-white" : "text-navy-900";
-  const accentColor = "text-accent-500";
+  const accentColor = variant === "light" ? "text-accent-400" : "text-accent-600";
 
   return (
     <Link href="/" className="inline-flex items-center gap-2.5">

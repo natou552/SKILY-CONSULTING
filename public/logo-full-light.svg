@@ -1,8 +1,8 @@
 <svg width="320" height="48" viewBox="0 0 320 48" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect y="4" width="40" height="40" rx="10" fill="#0B1120" />
-  <rect x="7" y="23" width="6" height="14" rx="2" fill="#10B981" />
-  <rect x="17" y="17" width="6" height="20" rx="2" fill="#10B981" />
-  <rect x="27" y="11" width="6" height="26" rx="2" fill="#34D399" />
+  <rect y="4" width="40" height="40" rx="10" fill="#1A2655" />
+  <rect x="7" y="23" width="6" height="14" rx="2" fill="#4FA3D1" />
+  <rect x="17" y="17" width="6" height="20" rx="2" fill="#4FA3D1" />
+  <rect x="27" y="11" width="6" height="26" rx="2" fill="#7EC4E8" />
   <text x="56" y="30" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="22" letter-spacing="0.5" fill="#FFFFFF">SKILY</text>
-  <text x="128" y="30" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="22" letter-spacing="0.5" fill="#34D399">CONSULTING</text>
+  <text x="128" y="30" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="22" letter-spacing="0.5" fill="#7EC4E8">CONSULTING</text>
 </svg>

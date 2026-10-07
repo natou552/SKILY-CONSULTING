@@ -10,10 +10,10 @@ export default function LogoMark({ size = 36, className = "" }: { size?: number;
       role="img"
       aria-label="Logo SKILY CONSULTING"
     >
-      <rect width="40" height="40" rx="10" fill="#0B1120" />
-      <rect x="7" y="19" width="6" height="14" rx="2" fill="#10B981" />
-      <rect x="17" y="13" width="6" height="20" rx="2" fill="#10B981" />
-      <rect x="27" y="7" width="6" height="26" rx="2" fill="#34D399" />
+      <rect width="40" height="40" rx="10" fill="#1A2655" />
+      <rect x="7" y="19" width="6" height="14" rx="2" fill="#4FA3D1" />
+      <rect x="17" y="13" width="6" height="20" rx="2" fill="#4FA3D1" />
+      <rect x="27" y="7" width="6" height="26" rx="2" fill="#7EC4E8" />
     </svg>
   );
 }
